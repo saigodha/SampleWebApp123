@@ -18,10 +18,11 @@
   </dependencies>
 
 	<scm>
-		<connection>scm:git:git@github.com:tobrien/git-demo.git</connection>
-		<url>scm:git:git@github.com:tobrien/git-demo.git</url>
-		<developerConnection>scm:git:git@github.com:tobrien/git-demo.git</developerConnection>
+		<connection>scm:git:git@github.com:maheshglm/SampleWebApp123.git</connection>
+		<url>scm:git:git@github.com:maheshglm/SampleWebApp123.git</url>
+		<developerConnection>scm:git:git@github.com:maheshglm/SampleWebApp123.git</developerConnection>
 	</scm>
+	
   <build>
     <finalName>${project.artifactId}##${project.version}</finalName>
     <resources>
