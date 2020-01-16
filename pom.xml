@@ -23,12 +23,12 @@
 	  <tag>HEAD</tag>
   </scm>
 	
-	<repositories>
+	<distributionManagement>
 		<repository>
 			<id>localdeploy</id>
 			<url>file:////Users/maheshgummaraju/work/Projects/Tomcat/localrepository/releases</url>
 		</repository>
-	</repositories>
+	</distributionManagement>
 	
   <build>
     <finalName>${project.artifactId}##${project.version}</finalName>
