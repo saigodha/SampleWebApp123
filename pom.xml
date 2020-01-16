@@ -3,7 +3,7 @@
   <groupId>com.sample</groupId>
   <artifactId>SampleWebApp123</artifactId>
   <packaging>war</packaging>
-  <version>1.2</version>
+  <version>1.3-SNAPSHOT</version>
   <name>SampleWebApp123 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
@@ -20,7 +20,7 @@
 		<connection>scm:git:git@github.com:maheshglm/SampleWebApp123.git</connection>
 		<url>scm:git:git@github.com:maheshglm/SampleWebApp123.git</url>
 		<developerConnection>scm:git:git@github.com:maheshglm/SampleWebApp123.git</developerConnection>
-	  <tag>SampleWebApp123-1.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 	
 	<distributionManagement>
