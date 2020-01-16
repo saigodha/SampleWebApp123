@@ -23,6 +23,13 @@
 		<developerConnection>scm:git:git@github.com:maheshglm/SampleWebApp123.git</developerConnection>
 	</scm>
 	
+	<repositories>
+		<repository>
+			<id>localdeploy</id>
+			<url>file:////Users/maheshgummaraju/work/Projects/Tomcat/localrepository/releases</url>
+		</repository>
+	</repositories>
+	
   <build>
     <finalName>${project.artifactId}##${project.version}</finalName>
     <resources>
